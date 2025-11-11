@@ -56,3 +56,6 @@ rsconnect/
 # OS specific
 .DS_Store
 Thumbs.db
+
+# Downloaded external repository (176MB - can be re-downloaded via setup script)
+sbdlnm_repo/
